@@ -1,0 +1,22 @@
+.topo-pagina { 
+    position: relative;
+    width: 100%;
+    padding-top: 34%;
+    background-color: #ccc; 
+    &.relative { padding-top: 0; } 
+
+    & > .container {
+        position: relative;
+    }
+
+    & .introducao {
+        font-size: 0.8em;
+        width: 100%;
+        max-width: 465px;
+        background-color: $color-yellow;
+        padding: 50px 45px;
+        margin: 0 70px 0 0;
+        text-align: justify;
+    }
+
+}

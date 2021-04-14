@@ -1,15 +1,56 @@
-:root {   
-    --header-home-height: 390px;
-    --header-height: 315px;
-    --background-color-base: #ffd5af;
-    --color-base: #231f20;
-}
 
-* { padding: 0;margin: 0;box-sizing: border-box;outline: 0; }
+$header-height: 135px;
+$footer-height: 200px;
+$top-plus-footer: $header-height + $footer-height;
+
+$colro-green: #88bc59;
+$color-yellow: #eac13a;
+$color-blue: #66b5d8;
+$color-white: #FFF;
+$color-default: #0f0f0f;
+
+* { padding: 0;margin: 0;box-sizing: border-box;outline: 0;margin: 0; }
 
 /* @font-face */
+@font-face {
+    font-family: 'MarselisPro';
+    src: url('../fonts/MarselisPro-Italic.woff2') format('woff2'),
+        url('../fonts/MarselisPro-Italic.woff') format('woff'),
+        url('../fonts/MarselisPro-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
 
-body { font-size: 16px;font-family: '', sans-serif;-webkit-font-smoothing: antialiased !important;overflow-y: scroll;overflow-x: hidden !important;color: var(--color-base); }
+@font-face {
+    font-family: 'MarselisPro';
+    src: url('../fonts/MarselisPro-Bold.woff2') format('woff2'),
+        url('../fonts/MarselisPro-Bold.woff') format('woff'),
+        url('../fonts/MarselisPro-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MarselisPro';
+    src: url('../fonts/MarselisPro.woff2') format('woff2'),
+        url('../fonts/MarselisPro.woff') format('woff'),
+        url('../fonts/MarselisPro.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+body { 
+	font-size: 16px;
+	font-family: 'MarselisPro', sans-serif;
+	-webkit-font-smoothing: antialiased !important;
+	overflow-y: scroll;
+	overflow-x: hidden !important;
+	color: $color-default; 
+}
 
 img { display: block;max-width: 100%;height: auto; } 
 select { -webkit-appearance: none;-moz-appearance: none;appearance: none;cursor:pointer; }    
@@ -21,11 +62,14 @@ h1, h2, h3, h4, h5, h6 { font-weight: bold; }
 a { text-decoration: none;transition: all .2s ease; }
 a:hover { text-decoration: none; }
 
-#root { position: relative;min-height: 100vh;padding-bottom: var(--footer-height); } 
+#root { position: relative;min-height: 100vh;padding-bottom: $footer-height; } 
 
 .esconde { position: absolute;top: -99999px;left: 0;font-size: 1px; }
 
-.color-default { color: var(--color-base); }
+.color-default { color: $color-default !important; }
+.color-green { color: $colro-green !important; }
+.color-blue { color: $color-blue !important; }
+.color-yellow { color: $color-yellow !important; }
 
 .font-10 { font-size:0.5675rem !important; }
 .font-11 { font-size:0.6875rem !important; }
@@ -36,12 +80,12 @@ a:hover { text-decoration: none; }
 .font-18 { font-size:1.1250rem !important; }
 .font-20 { font-size:1.2500rem !important; }
 .font-22 { font-size:1.3000rem !important; }
-.font-24 { font-size:1.5000rem !important; }
-.font-28 { font-size:1.7500rem !important; }
+.font-24 { font-size:1.5000rem !important; }   
+.font-28 { font-size:1.7500rem !important; } 
 .font-32 { font-size:2.0000rem !important; }
 .font-40 { font-size:2.5000rem !important; }
 
-.line-height-100 { line-height:100% !important; }
+.line-height-100 { line-height:100% !important; } 
 .line-height-110 { line-height:110% !important; }
 .line-height-120 { line-height:120% !important; }
 .line-height-130 { line-height:130% !important; }
@@ -60,6 +104,15 @@ a:hover { text-decoration: none; }
 .scale-160 { transform:scale(1.6) !important; }
 .scale-170 { transform:scale(1.7) !important; }
 .scale-180 { transform:scale(1.8) !important; }
+
+.texto {}
+.texto p { font-size: 1em;line-height: 1.6em;margin-bottom: 1.2em; }
+.texto p:last-of-type { margin-bottom: 0 !important; }
+
+@import 'topo';
+@import 'conteudo';
+@import 'topo-pagina';
+
 
 @media (min-width: 768px) { /* COL MD */		
 
@@ -94,7 +147,7 @@ a:hover { text-decoration: none; }
 	.font-lg-32 { font-size:2.0000rem !important; }
 	.font-lg-40 { font-size:2.5000rem !important; }
 }
-
+ 
 @media (min-width: 1200px){ /* COL XL */	
 
 	.font-xl-10 { font-size:0.5675rem !important; }
