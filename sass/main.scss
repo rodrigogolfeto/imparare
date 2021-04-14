@@ -1,7 +1,6 @@
 
 $header-height: 135px;
 $footer-height: 200px;
-$top-plus-footer: $header-height + $footer-height;
 
 $colro-green: #88bc59;
 $color-yellow: #eac13a;
@@ -105,7 +104,6 @@ a:hover { text-decoration: none; }
 .scale-170 { transform:scale(1.7) !important; }
 .scale-180 { transform:scale(1.8) !important; }
 
-.texto {}
 .texto p { font-size: 1em;line-height: 1.6em;margin-bottom: 1.2em; }
 .texto p:last-of-type { margin-bottom: 0 !important; }
 
