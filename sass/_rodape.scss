@@ -1,0 +1,42 @@
+.rodape {
+    position: relative;
+    z-index: 10;
+
+    & .carousel-rodape {
+        position: relative;
+        width: 100%;
+        padding-top: 33%;
+        background-color: #bbb;
+    }
+    & .carousel-rodape > div {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+
+    & .carousel-rodape .carousel {
+        width: 100%;
+        height: 100%;
+    }
+    & .carousel-rodape .carousel-inner {
+        height: 100%;
+    }
+    & .carousel-rodape .carousel-item {
+        height: 100%;
+    }
+    & .carousel-rodape .carousel-indicators button {
+        width: 14px;
+        height: 14px;
+        margin: 0 10px;
+        background-color: $color-yellow;
+        border-radius: 50%;
+        border: 0;
+        opacity: .6;
+    }
+    & .carousel-rodape .carousel-indicators button.active {
+        opacity: 1;
+    }
+
+}

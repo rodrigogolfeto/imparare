@@ -19,4 +19,14 @@
         text-align: justify; 
     }
 
+    & .acoes { position: absolute;bottom: 0;left: 0;width: 100%;padding-bottom: 25px; }
+    & .acoes button { position: relative;border: 0;height: 50px;margin: 0 15px;padding: 0 25px 0 65px;color: #FFF;transition: all .3s ease; }
+    & .acoes button::before { position: absolute;top: 0;left: 0;width: 65px;height: 100%;content: ''; }
+    
+    & .acoes button.blog::before { background: url('../images/blog.svg') no-repeat center center;background-size: 36px; }
+    & .acoes button.bg-blue:hover { @include hover-effect(blue); }
+    
+    & .acoes button.livros::before { background: url('../images/livro.svg') no-repeat center center;background-size: 33px 36px; }
+    & .acoes button.bg-green:hover { @include hover-effect(green); }
+
 }

@@ -24,14 +24,14 @@
                 
                 <nav class="menu">
                     <ul class="d-flex">
-                        <li><a href="">Il portoghese</a></li>
-                        <li><a href="">I corsi</a></li>
-                        <li><a href="">Traduzioni e interpretariato</a></li>
-                        <li><a href="">Il Brasile</a></li>
-                        <li><a href="">Libri pubblicati</a></li>
-                        <li><a href="">Opinioni</a></li>
-                        <li><a href="">CONTATTI</a></li>
-                        <li><a href="">Blog</a></li>
+                        <li><a href="" class="font-14">Il portoghese</a></li>
+                        <li><a href="" class="font-14">I corsi</a></li>
+                        <li><a href="" class="font-14">Traduzioni e interpretariato</a></li>
+                        <li><a href="" class="font-14">Il Brasile</a></li>
+                        <li><a href="" class="font-14">Libri pubblicati</a></li>
+                        <li><a href="" class="font-14">Opinioni</a></li>
+                        <li><a href="" class="font-14">CONTATTI</a></li>
+                        <li><a href="" class="font-14">Blog</a></li>
                     </ul>
                 </nav>
 

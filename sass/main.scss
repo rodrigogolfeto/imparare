@@ -1,12 +1,18 @@
 
-$header-height: 135px;
-$footer-height: 200px;
+@import 'variables';
 
-$colro-green: #88bc59;
-$color-yellow: #eac13a;
-$color-blue: #66b5d8;
-$color-white: #FFF;
-$color-default: #0f0f0f;
+@mixin hover-effect($tipo) {
+
+	@if $tipo == green {
+		background-color: darken($color: $color-green, $amount: $amount-darken) !important;
+	}
+	@else if $tipo == blue {
+		background-color: darken($color: $color-blue, $amount: $amount-darken) !important;
+	}
+	@else if $tipo == yellow {
+		background-color: darken($color: $color-yellow, $amount: $amount-darken) !important;
+	}
+}
 
 * { padding: 0;margin: 0;box-sizing: border-box;outline: 0;margin: 0; }
 
@@ -61,14 +67,24 @@ h1, h2, h3, h4, h5, h6 { font-weight: bold; }
 a { text-decoration: none;transition: all .2s ease; }
 a:hover { text-decoration: none; }
 
-#root { position: relative;min-height: 100vh;padding-bottom: $footer-height; } 
+#root { position: relative;min-height: 100vh; } 
 
 .esconde { position: absolute;top: -99999px;left: 0;font-size: 1px; }
 
 .color-default { color: $color-default !important; }
-.color-green { color: $colro-green !important; }
+
+.color-green { color: $color-green !important; }
+.color-green-darken { color: darken($color: $color-green, $amount: $amount-darken); }
+
 .color-blue { color: $color-blue !important; }
+.color-blue-darken { color: darken($color: $color-blue, $amount: $amount-darken); }
+
 .color-yellow { color: $color-yellow !important; }
+.color-yellow-darken { color: darken($color: $color-yellow, $amount: $amount-darken); }
+
+.bg-green { background-color: $color-green !important; }
+.bg-blue { background-color: $color-blue !important; }
+.bg-yellow { background-color: $color-yellow !important; }
 
 .font-10 { font-size:0.5675rem !important; }
 .font-11 { font-size:0.6875rem !important; }
@@ -107,8 +123,93 @@ a:hover { text-decoration: none; }
 .texto p { font-size: 1em;line-height: 1.6em;margin-bottom: 1.2em; }
 .texto p:last-of-type { margin-bottom: 0 !important; }
 
-@import 'topo';
+.btn-mais { display: flex;align-items: center;justify-content: center;width: 40px;height: 40px;font-size: 2.0rem !important;font-style: italic;color: #FFF;border-radius: 50%; }
+.btn-mais:hover { color: #FFF; }
+.btn-mais.bg-green:hover { @include hover-effect(green) }
+.btn-mais.bg-blue:hover { @include hover-effect(blue) }
+.btn-mais.bg-yellow:hover { @include hover-effect(yellow) }
+
+.links-uteis { 
+	position: relative;
+	display: block;
+	width: 100%;
+	max-width: 440px;
+	padding-top: 100%;
+	background-color: $color-green;
+	color: #FFF !important;
+
+	&::before { 
+		content: '';
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		background: rgba(0,0,0,0.2); 
+		z-index: 5;
+		opacity: 1;
+		transition: opacity .3s ease;
+	}
+	&:hover::before { 
+		opacity: 0; 
+	}
+	
+	& > div {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		z-index: 10;
+	}
+
+	& > div > div { 
+		position: relative;
+		max-width: 270px;
+		border: 2px solid #FFF; 
+		text-align: center;
+	}
+	& > div > div::after { 
+		position: absolute;
+		right: 0;
+		bottom: 0;
+		content: '+';
+		
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		
+		transform: translate(20%,20%);
+
+		font-size: 2.0rem !important;
+		font-weight: bold;
+		font-style: italic;
+		width: 40px;
+		height: 40px; 
+		border-radius: 50%;
+		background-color: $color-yellow; 
+	}
+
+}
+
+.cmdetalhe {
+	background-size: 100px !important;
+
+	&.bg-yellow {
+		background: $color-yellow url('../images/detalhe.svg') repeat-x top center;
+	}
+	&.bg-blue {
+		background: $color-blue url('../images/detalhe.svg') repeat-x top center;
+	}
+	&.bg-green {
+		background: $color-green url('../images/detalhe.svg') repeat-x top center;
+	}
+}
+
+
+@import 'topo'; 
 @import 'conteudo';
+@import 'rodape';
 @import 'topo-pagina';
 
 
@@ -160,6 +261,15 @@ a:hover { text-decoration: none; }
 	.font-xl-24 { font-size:1.5000rem !important; }
 	.font-xl-28 { font-size:1.7500rem !important; }
 	.font-xl-32 { font-size:2.0000rem !important; }
-	.font-xl-40 { font-size:2.5000rem !important; }
+	.font-xl-40 { font-size:2.5000rem !important; } 
 
+}
+
+@media (min-width: 1400px) {
+	.container, 
+	.container-lg, 
+	.container-md, 
+	.container-sm, 
+	.container-xl, 
+	.container-xxl { max-width: 1140px !important; }
 }
