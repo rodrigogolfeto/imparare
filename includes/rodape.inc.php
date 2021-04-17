@@ -26,34 +26,57 @@
             <div class="bg-green py-5">
                 <div class="container py-4">
                     <div class="row justify-content-md-center">
-                        <div class="col-5 text-white pe-5">
-                            <h3>Contatti</h3>
-                            <div class="texto">
-                                <p>
-                                Per fissare la lezione di prova o richiedere
-                                un preventivo per traduzione:
-                                info@imparareilportoghese.it
-                                </p>
+                        
+                        <div class="d-flex flex-column informacoes-container col-5 text-white p-0 me-5">
+                            
+                            <div class="flex-grow-1">
+                                <h3>Contatti</h3>
+                                <div class="texto font-14">
+                                    <p>
+                                    Per fissare la lezione di prova o richiedere
+                                    un preventivo per traduzione:
+                                    info@imparareilportoghese.it
+                                    </p>
 
-                                <p>+39 339 896 5505</p>
+                                    <p>
+                                        <a href="">+39 339 896 5505</a>
+                                    </p>
+                                </div>
                             </div>
+
+                            <div class="d-flex redes-sociais align-items-center">
+                                <a href="" class="facebook" target="_blank">Facebook</a>
+                                <a href="" class="instagram" target="_blank">Instagram</a>
+                                <a href="" class="youtube" target="_blank">Youtube</a>
+                                <span class="ms-1 fst-italic">imparareilportoghese</span>
+                            </div>
+
                         </div>
-                        <div class="col-5 ps-5">
+                        
+                        <div class="formulario-contato-container col-5 p-0 ms-5 mb-3">
                             <form action="" method="">
-                                <div>
-                                    <label class="d-block text-white">Argomento</label>
-                                    <input type="text" />
+                                <div class="pb-1">
+                                    <label class="d-block text-white fst-italic font-16 pb-1">Argomento</label>
+                                    <input type="text" id="" name="" class="font-14" />
                                 </div>
-                                <div>
-                                    <label class="d-block text-white">Nome</label>
-                                    <input type="text" />
+                                <div class="pb-1">
+                                    <label class="d-block text-white fst-italic font-16 pb-1">Nome</label>
+                                    <input type="text" id="" name="" class="font-14" />
                                 </div>
-                                <div>
-                                    <label class="d-block text-white">Email</label>
-                                    <input type="text" />
-                                </div>                                
+                                <div class="pb-1">
+                                    <label class="d-block text-white fst-italic font-16 pb-1">Email</label>
+                                    <input type="text" id="" name="" class="font-14" />
+                                </div>
+                                <div class="pb-1">
+                                    <label class="d-block text-white fst-italic font-16 pb-1">Messaggio</label>
+                                    <textarea type="text" id="" name="" class="font-14"></textarea>
+                                </div>
+                                <div class="button-container d-flex justify-content-end pt-2">
+                                    <button type="submit" class="rounded-pill">Enviar</button>
+                                </div>
                             </form>
                         </div>
+                        
                     </div>
                 </div>
             </div>

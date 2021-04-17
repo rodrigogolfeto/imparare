@@ -32,7 +32,7 @@
 			<h4 class="titulo text-white pb-3">Il Portoghese</h4>
 			<div class="texto font-16 text-white">Il portoghese è il sesto idioma più parlato al mondo dopo il cinese, lo spagnolo, l’inglese, il bengali e hindi. Tra le lingue europee, è addirittura la terza dopo inglese e spagnolo. Il portoghese, inoltre, è la lingua ufficiale di otto Paesi in quattro continenti: Portogallo, Capo Verde, Guinea-Bissau, São Tomè e Príncipe, Mozambico, Angola, Brasile, Timor Est; ma anche nelle regioni di Macao (territorio speciale d’oltremare, appartenente alla Cina), Goa (in India) e Galizia (Spagna).</div>
 			<div class="d-flex justify-content-end pt-2 px-3">
-				<a href="" class="bg-yellow btn-mais">+</a>
+				<a href="il-portoghese" class="bg-yellow btn-mais">+</a>
 			</div>
 		</div>
 	</div>
@@ -41,14 +41,14 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-6 d-flex justify-content-end">
-					<a href="" class="links-uteis" style="background: url(<?=$config['urlSite']?>images/i-corsi.jpg) no-repeat center bottom;background-size: cover;">
+					<a href="il-corsi" class="links-uteis" style="background: url(<?=$config['urlSite']?>images/i-corsi.jpg) no-repeat center bottom;background-size: cover;">
 						<div class="d-flex align-items-center justify-content-center">
 							<div class="rounded-pill py-2 px-5 font-24 line-height-130"><b>I Corsi</b></div>
 						</div>
 					</a>
 				</div>
 				<div class="col-6 d-flex justify-content-start">
-					<a href="" class="links-uteis" style="background: url(<?=$config['urlSite']?>images/traduzioni.jpg) no-repeat center bottom;background-size: cover;">
+					<a href="traduzioni-e-interpretariato" class="links-uteis" style="background: url(<?=$config['urlSite']?>images/traduzioni.jpg) no-repeat center bottom;background-size: cover;">
 						<div class="d-flex align-items-center justify-content-center">
 							<div class="rounded-pill py-2 px-5 font-24 line-height-130"><b>Traduzioni e interpretariato</b></div>
 						</div>
@@ -76,7 +76,7 @@
 			
 			
 			<div class="d-flex justify-content-end pt-4 px-3">
-				<a href="" class="bg-blue btn-mais">+</a>
+				<a href="il-brasile" class="bg-blue btn-mais">+</a>
 			</div>
 		</div>
 	</div>

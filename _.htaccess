@@ -18,7 +18,7 @@ AddOutputFilterByType DEFLATE text/html
 AddOutputFilterByType DEFLATE text/plain
 AddOutputFilterByType DEFLATE text/xml
 AddOutputFilterByType DEFLATE text/css
-AddOutputFilterByType DEFLATE application/javascript
+AddOutputFilterByType DEFLATE application/javascript 
 SetOutputFilter DEFLATE 
 BrowserMatch ^Mozilla/4 gzip-only-text/html 
 BrowserMatch ^Mozilla/4\.0[678] no-gzip 

@@ -2,3 +2,186 @@
     position: relative;
     z-index: 5;
 }
+
+.texto p { font-size: 1em;line-height: 1.6em;margin-bottom: 2em; }
+.texto p:last-child { margin-bottom: 0 !important; }
+
+.texto .bloco { border: 2px solid $color-yellow;margin-bottom: 2em;padding: 30px;margin: 0 -30px 1.6em -30px; }
+.texto .bloco:last-child { margin-bottom: 0 !important; }
+
+.btn-mais { display: flex;align-items: center;justify-content: center;width: 40px;height: 40px;font-size: 2.0rem !important;font-style: italic;color: #FFF;border-radius: 50%; }
+.btn-mais:hover { color: #FFF; }
+.btn-mais.bg-green:hover { @include hover-effect(green) }
+.btn-mais.bg-blue:hover { @include hover-effect(blue) }
+.btn-mais.bg-yellow:hover { @include hover-effect(yellow) }
+
+.links-uteis { 
+	position: relative;
+	display: block;
+	width: 100%;
+	max-width: 440px;
+	padding-top: 100%;
+	background-color: $color-green;
+	color: #FFF !important;
+
+	&::before { 
+		content: '';
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		background: rgba(0,0,0,0.2); 
+		z-index: 5;
+		opacity: 1;
+		transition: opacity .3s ease;
+	}
+	&:hover::before { 
+		opacity: 0; 
+	}
+	
+	& > div {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		z-index: 10;
+	}
+
+	& > div > div { 
+		position: relative;
+		max-width: 270px;
+		border: 2px solid #FFF; 
+		text-align: center;
+	}
+	& > div > div::after { 
+		position: absolute;
+		right: 0;
+		bottom: 0;
+		content: '+';
+		
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		
+		transform: translate(20%,20%);
+
+		font-size: 2.0rem !important;
+		font-weight: bold;
+		font-style: italic;
+		width: 40px;
+		height: 40px; 
+		border-radius: 50%;
+		background-color: $color-yellow; 
+	}
+
+}
+
+.cmdetalhe {
+	background-size: 100px !important;
+
+	&.bg-yellow {
+		background: $color-yellow url('../images/detalhe.svg') repeat-x top center;
+	}
+	&.bg-blue {
+		background: $color-blue url('../images/detalhe.svg') repeat-x top center;
+	}
+	&.bg-green {
+		background: $color-green url('../images/detalhe.svg') repeat-x top center;
+	}
+}
+
+.form-conteudo {
+	width: 100%;
+	max-width: 535px;
+
+	& input {
+		display: block;
+		width: 100%;
+		height: 40px;
+		padding: 0 25px;
+		border: 2px solid $color-blue;    
+			
+	}
+	& textarea {
+		display: block;
+		width: 100%;
+		height: 120px;
+		padding: 10px 25px;
+		border: 2px solid $color-blue;        
+		border-radius: 20px;
+	}
+}
+
+
+.libri-pubblicati {
+    position: relative;
+
+    & .item {
+        position: relative;
+        padding-bottom: 45px;
+        
+        &:last-child { padding-bottom: 0; }
+        
+        & .foto {
+            display: block;
+            position: relative;
+            width: 100%;
+            max-width: 610px;
+            padding-top: 45.28%;
+            background-color: #bbb;
+            overflow: hidden;
+        }
+        & .foto > div { 
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-size: cover !important; 
+        }
+        & .descricao {             
+            width: 340px;
+            padding-left: 35px;
+        }
+    }
+
+}
+ 
+
+.opinioni {
+    position: relative;
+
+
+    & .item-wrapper {
+        padding: 0 70px 40px 70px;
+    }
+    & .item {
+        position: relative;
+    }
+    & .item::before,
+    & .item::after {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 60px;
+        height: 40px;
+        content: '';
+        background: url('../images/aspas.svg') no-repeat center center;
+        background-size: contain !important;
+        transform: translate(-130%,0);
+    }
+    & .item::after {        
+        left: auto;
+        right: 0;
+        top: auto;
+        bottom: 0;
+        transform: translate(130%,0) rotate(180deg);        
+    }
+
+    & .item.texto p {
+        margin-bottom: 1.5rem;
+    }
+
+}
