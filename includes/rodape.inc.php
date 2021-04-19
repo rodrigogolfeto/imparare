@@ -23,11 +23,11 @@
                 </div>
             </div>
 
-            <div class="bg-green py-5">
+            <div class="rodape-baixo bg-green py-5">
                 <div class="container py-4">
-                    <div class="row justify-content-md-center">
+                    <div class="row justify-content-center">
                         
-                        <div class="d-flex flex-column informacoes-container col-5 text-white p-0 me-5">
+                        <div class="d-flex flex-column informacoes-container col-12 col-md-5 text-white px-4 px-lg-0 me-0 me-lg-5 pb-5 pb-lg-0">
                             
                             <div class="flex-grow-1">
                                 <h3>Contatti</h3>
@@ -53,7 +53,7 @@
 
                         </div>
                         
-                        <div class="formulario-contato-container col-5 p-0 ms-5 mb-3">
+                        <div class="formulario-contato-container col-12 col-lg-5 px-4 px-lg-0 ms-0 ms-lg-5 mb-3">
                             <form action="" method="">
                                 <div class="pb-1">
                                     <label class="d-block text-white fst-italic font-16 pb-1">Argomento</label>
@@ -87,7 +87,7 @@
     
     
     <script type="text/javascript" src="<?=$config['urlSite']?>scripts/plugins.min.js"></script>
-    <script type="text/javascript" src="<?=$config['urlSite']?>scripts/scripts.js<?=(!empty($config['cacheFiles']))? '?cacheFile=' . $config['cacheFiles']:'';?>"></script>
+    <script type="text/javascript" src="<?=$config['urlSite']?>scripts/scripts.js?time=<?=time()?>"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js" integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf" crossorigin="anonymous"></script>
 
 </body>

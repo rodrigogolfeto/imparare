@@ -7,15 +7,14 @@
 
     & > .container {
         position: relative;
+        justify-content: center !important;        
     }
 
     & .introducao {
         font-size: 0.8em;
         width: 100%;
-        max-width: 465px;
         background-color: $color-yellow;
-        padding: 50px 45px 30px 45px;
-        margin: 0 70px 0 0;
+        padding: 50px 45px 30px 45px;        
         text-align: justify; 
     }
     & .introducao p { margin-bottom: 1.2em; }
@@ -29,5 +28,15 @@
     
     & .acoes button.livros::before { background: url('../images/livro.svg') no-repeat center center;background-size: 33px 36px; }
     & .acoes button.bg-green:hover { @include hover-effect(green); }
+
+    @media (min-width: 992px) { /* COL LG */
+        & > .container {            
+            justify-content: flex-end !important;
+        }	
+        & .introducao {
+            max-width: 465px !important;
+            margin: 0 70px 0 0;
+        }
+    }
 
 }

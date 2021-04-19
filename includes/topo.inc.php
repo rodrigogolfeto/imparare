@@ -38,17 +38,19 @@
                 </div>
                 
                 <nav class="menu">
-                    <ul class="d-flex">
+                    <ul>
                         <li><a href="il-portoghese" class="font-14<?=(isset($ilportogheseM) ? ' active' : '')?>">Il portoghese</a></li>
                         <li><a href="il-corsi" class="font-14<?=(isset($ilcorsiM) ? ' active' : '')?>">I corsi</a></li>
                         <li><a href="traduzioni-e-interpretariato" class="font-14<?=(isset($traduzioniM) ? ' active' : '')?>">Traduzioni e interpretariato</a></li>
                         <li><a href="il-brasile" class="font-14<?=(isset($ilbrasileM) ? ' active' : '')?>">Il Brasile</a></li>
                         <li><a href="libri-pubblicati" class="font-14<?=(isset($libriM) ? ' active' : '')?>">Libri pubblicati</a></li>
                         <li><a href="opinioni" class="font-14<?=(isset($opinioniM) ? ' active' : '')?>">Opinioni</a></li>
-                        <li><a href="javascript:;" class="font-14">CONTATTI</a></li>
+                        <li><a href="javascript:goTo('rodape-baixo');" class="font-14">CONTATTI</a></li>
                         <li><a href="blog" class="font-14<?=(isset($blogM) ? ' active' : '')?>">Blog</a></li>
                     </ul>
                 </nav>
+
+                <button class="d-block d-xl-none btn-menu primary border-0 font-16 m-3">MENU<div><span></span></div></button>
 
             </div>
         </header><!-- topo -->

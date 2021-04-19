@@ -27,27 +27,21 @@
 		</div>
 	</div>
 
-	<div class="bg-blue py-5">
-		<div class="container py-4">
-			<h4 class="titulo text-white pb-3">Il Portoghese</h4>
-			<div class="texto font-16 text-white">Il portoghese è il sesto idioma più parlato al mondo dopo il cinese, lo spagnolo, l’inglese, il bengali e hindi. Tra le lingue europee, è addirittura la terza dopo inglese e spagnolo. Il portoghese, inoltre, è la lingua ufficiale di otto Paesi in quattro continenti: Portogallo, Capo Verde, Guinea-Bissau, São Tomè e Príncipe, Mozambico, Angola, Brasile, Timor Est; ma anche nelle regioni di Macao (territorio speciale d’oltremare, appartenente alla Cina), Goa (in India) e Galizia (Spagna).</div>
-			<div class="d-flex justify-content-end pt-2 px-3">
-				<a href="il-portoghese" class="bg-yellow btn-mais">+</a>
-			</div>
-		</div>
-	</div>
+	<?php		
+		include('./includes/il-portoghese.inc.php');
+	?>
 
 	<div class="py-5">
 		<div class="container">
 			<div class="row">
-				<div class="col-6 d-flex justify-content-end">
+				<div class="col-12 col-md-6 d-flex justify-content-end py-4 py-md-0">
 					<a href="il-corsi" class="links-uteis" style="background: url(<?=$config['urlSite']?>images/i-corsi.jpg) no-repeat center bottom;background-size: cover;">
 						<div class="d-flex align-items-center justify-content-center">
 							<div class="rounded-pill py-2 px-5 font-24 line-height-130"><b>I Corsi</b></div>
 						</div>
 					</a>
 				</div>
-				<div class="col-6 d-flex justify-content-start">
+				<div class="col-12 col-md-6 d-flex justify-content-start py-4 py-md-0">
 					<a href="traduzioni-e-interpretariato" class="links-uteis" style="background: url(<?=$config['urlSite']?>images/traduzioni.jpg) no-repeat center bottom;background-size: cover;">
 						<div class="d-flex align-items-center justify-content-center">
 							<div class="rounded-pill py-2 px-5 font-24 line-height-130"><b>Traduzioni e interpretariato</b></div>
@@ -58,28 +52,9 @@
 		</div>
 	</div>
 
-	<div class="cmdetalhe bg-yellow py-5">
-		<div class="container pb-4 pt-5">
-			<h4 class="titulo pb-3">Il Brasile</h4>
-			
-			<div class="row">
-				<div class="col-4 autor color-green-darken font-28 fst-italic d-flex align-items-center justify-content-center">
-					<b>
-						“Il Gigante del<br />
-						Sud America”
-					</b>
-				</div>
-				<div class="col">
-					Il Brasile, quinto paese più grande del mondo, 184 milioni di abitanti (ovvero il 40% della popolazione dell’America Latina), è il gigante del Sud America. Ma è anche un paese di enormi differenze sociali, dove tanta ostentata ricchezza convive con la povertà più estrema. Basti pensare che, pur essendo tra le  prime 11 potenze mondiali, 1/3 della popolazione lotta per sfamarsi e  40 milioni è il numero di persone che vive  sotto la soglia di povertà.
-				</div>
-			</div>
-			
-			
-			<div class="d-flex justify-content-end pt-4 px-3">
-				<a href="il-brasile" class="bg-blue btn-mais">+</a>
-			</div>
-		</div>
-	</div>
+	<?php		
+		include('./includes/il-brasile.inc.php');
+	?>
 
 </main>
 		
