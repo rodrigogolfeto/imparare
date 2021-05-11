@@ -1,0 +1,426 @@
+[24-Jul-2019 10:40:32] PHP Warning:  getimagesize(../arquivos/dtex_1018.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[24-Jul-2019 10:40:32] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[24-Jul-2019 10:40:32] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[25-Jul-2019 10:58:27] PHP Warning:  getimagesize(../arquivos/dtex_1105.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[25-Jul-2019 10:58:27] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[25-Jul-2019 10:58:27] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[25-Jul-2019 10:58:29] PHP Warning:  getimagesize(../arquivos/dtex_1105.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[25-Jul-2019 10:58:29] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[25-Jul-2019 10:58:29] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[25-Jul-2019 11:20:43] PHP Warning:  getimagesize(../arquivos/dtex_1105.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[25-Jul-2019 11:20:43] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[25-Jul-2019 11:20:43] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[25-Jul-2019 16:50:26] PHP Warning:  getimagesize(../arquivos/dtex_1105.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[25-Jul-2019 16:50:26] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[25-Jul-2019 16:50:26] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[26-Jul-2019 03:48:26] PHP Warning:  getimagesize(../arquivos/dtex_1099.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[26-Jul-2019 03:48:26] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[26-Jul-2019 03:48:26] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[26-Jul-2019 21:43:53] PHP Warning:  getimagesize(../arquivos/dtex_1103.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[26-Jul-2019 21:43:53] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[26-Jul-2019 21:43:53] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[03-Aug-2019 23:32:23] PHP Warning:  getimagesize(../arquivos/dtex_858.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[03-Aug-2019 23:32:23] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[03-Aug-2019 23:32:23] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[04-Aug-2019 06:10:45] PHP Warning:  getimagesize(../arquivos/dtex_856.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[04-Aug-2019 06:10:45] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[04-Aug-2019 06:10:45] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[08-Aug-2019 04:09:17] PHP Warning:  getimagesize(../arquivos/dtex_1018.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[08-Aug-2019 04:09:17] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[08-Aug-2019 04:09:17] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[09-Aug-2019 12:19:02] PHP Warning:  getimagesize(../arquivos/dtex_1105.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[09-Aug-2019 12:19:02] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[09-Aug-2019 12:19:02] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[09-Aug-2019 13:59:37] PHP Warning:  getimagesize(../arquivos/dtex_1103.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[09-Aug-2019 13:59:37] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[09-Aug-2019 13:59:37] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[09-Aug-2019 18:56:01] PHP Warning:  getimagesize(../arquivos/dtex_1099.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[09-Aug-2019 18:56:01] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[09-Aug-2019 18:56:01] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[15-Aug-2019 19:58:45] PHP Warning:  getimagesize(../arquivos/dtex_1099.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[15-Aug-2019 19:58:45] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[15-Aug-2019 19:58:45] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[16-Aug-2019 00:59:35] PHP Warning:  getimagesize(../arquivos/dtex_1103.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[16-Aug-2019 00:59:35] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[16-Aug-2019 00:59:35] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[16-Aug-2019 08:43:33] PHP Warning:  getimagesize(../arquivos/dtex_1105.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[16-Aug-2019 08:43:33] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[16-Aug-2019 08:43:33] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[22-Aug-2019 12:50:53] PHP Warning:  getimagesize(../arquivos/dtex_641.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[22-Aug-2019 12:50:53] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[22-Aug-2019 12:50:53] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[26-Aug-2019 13:11:08] PHP Warning:  getimagesize(../arquivos/dtex_641.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[26-Aug-2019 13:11:08] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[26-Aug-2019 13:11:08] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[12-Sep-2019 00:03:02] PHP Warning:  getimagesize(../arquivos/dtex_1069.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[12-Sep-2019 00:03:02] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[12-Sep-2019 00:03:02] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[25-Sep-2019 08:46:26] PHP Warning:  getimagesize(../arquivos/dtex_641.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[25-Sep-2019 08:46:26] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[25-Sep-2019 08:46:26] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[01-Oct-2019 03:32:21] PHP Warning:  getimagesize(../arquivos/dtex_449.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[01-Oct-2019 03:32:21] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[01-Oct-2019 03:32:21] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[01-Oct-2019 06:08:56] PHP Warning:  getimagesize(../arquivos/dtex_450.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[01-Oct-2019 06:08:56] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[01-Oct-2019 06:08:56] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[01-Oct-2019 09:41:16] PHP Warning:  getimagesize(../arquivos/dtex_23.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[01-Oct-2019 09:41:16] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[01-Oct-2019 09:41:16] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[01-Oct-2019 14:50:30] PHP Warning:  getimagesize(../arquivos/dtex_25.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[01-Oct-2019 14:50:30] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[01-Oct-2019 14:50:30] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[03-Oct-2019 18:18:11] PHP Warning:  getimagesize(../arquivos/dtex_448.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[03-Oct-2019 18:18:11] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[03-Oct-2019 18:18:11] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[05-Oct-2019 08:18:22] PHP Warning:  getimagesize(../arquivos/dtex_25.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[05-Oct-2019 08:18:22] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[05-Oct-2019 08:18:22] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[05-Oct-2019 12:21:58] PHP Warning:  getimagesize(../arquivos/dtex_23.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[05-Oct-2019 12:21:58] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[05-Oct-2019 12:21:58] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[06-Oct-2019 06:58:53] PHP Warning:  getimagesize(../arquivos/dtex_450.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[06-Oct-2019 06:58:53] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[06-Oct-2019 06:58:53] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[15-Oct-2019 18:39:11] PHP Warning:  getimagesize(../arquivos/foto_22.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[15-Oct-2019 18:39:11] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[15-Oct-2019 18:39:11] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[15-Oct-2019 23:57:44] PHP Warning:  getimagesize(../arquivos/dtex_25.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[15-Oct-2019 23:57:44] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[15-Oct-2019 23:57:44] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[16-Oct-2019 02:57:24] PHP Warning:  getimagesize(../arquivos/dtex_23.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[16-Oct-2019 02:57:24] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[16-Oct-2019 02:57:24] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[16-Oct-2019 20:29:20] PHP Warning:  getimagesize(../arquivos/dtex_450.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[16-Oct-2019 20:29:20] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[16-Oct-2019 20:29:20] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[23-Oct-2019 18:26:28] PHP Warning:  getimagesize(../arquivos/dtex_1099.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[23-Oct-2019 18:26:28] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[23-Oct-2019 18:26:28] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[23-Oct-2019 21:17:37] PHP Warning:  getimagesize(../arquivos/dtex_1018.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[23-Oct-2019 21:17:37] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[23-Oct-2019 21:17:37] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[24-Oct-2019 01:19:31] PHP Warning:  getimagesize(../arquivos/dtex_1105.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[24-Oct-2019 01:19:31] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[24-Oct-2019 01:19:31] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[24-Oct-2019 12:50:12] PHP Warning:  getimagesize(../arquivos/dtex_1103.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[24-Oct-2019 12:50:12] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[24-Oct-2019 12:50:12] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[03-Nov-2019 06:56:22] PHP Warning:  getimagesize(../arquivos/dtex_446.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[03-Nov-2019 06:56:22] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[03-Nov-2019 06:56:22] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[03-Nov-2019 11:23:29] PHP Warning:  getimagesize(../arquivos/foto_141.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[03-Nov-2019 11:23:29] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[03-Nov-2019 11:23:29] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[03-Nov-2019 16:50:56] PHP Warning:  getimagesize(../arquivos/dtex_447.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[03-Nov-2019 16:50:56] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[03-Nov-2019 16:50:56] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[04-Nov-2019 02:54:32] PHP Warning:  getimagesize(../arquivos/foto_22.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[04-Nov-2019 02:54:32] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[04-Nov-2019 02:54:32] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[04-Nov-2019 03:31:13] PHP Warning:  getimagesize(../arquivos/foto_22.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[04-Nov-2019 03:31:13] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[04-Nov-2019 03:31:13] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[05-Nov-2019 13:21:15] PHP Warning:  getimagesize(../arquivos/foto_21.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[05-Nov-2019 13:21:15] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[05-Nov-2019 13:21:15] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[05-Nov-2019 14:02:00] PHP Warning:  getimagesize(../arquivos/foto_18.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[05-Nov-2019 14:02:00] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[05-Nov-2019 14:02:00] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[10-Nov-2019 20:09:05] PHP Warning:  getimagesize(../arquivos/dtex_446.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[10-Nov-2019 20:09:05] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[10-Nov-2019 20:09:05] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[18-Nov-2019 23:05:39] PHP Warning:  getimagesize(../arquivos/dtex_38.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[18-Nov-2019 23:05:39] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[18-Nov-2019 23:05:39] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[18-Nov-2019 23:21:18] PHP Warning:  getimagesize(../arquivos/dtex_438.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[18-Nov-2019 23:21:18] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[18-Nov-2019 23:21:18] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[18-Nov-2019 23:36:57] PHP Warning:  getimagesize(../arquivos/dtex_472.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[18-Nov-2019 23:36:57] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[18-Nov-2019 23:36:57] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[18-Nov-2019 23:52:36] PHP Warning:  getimagesize(../arquivos/dtex_563.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[18-Nov-2019 23:52:36] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[18-Nov-2019 23:52:36] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[19-Nov-2019 00:39:34] PHP Warning:  getimagesize(../arquivos/dtex_549.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[19-Nov-2019 00:39:34] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[19-Nov-2019 00:39:34] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[19-Nov-2019 00:55:13] PHP Warning:  getimagesize(../arquivos/dtex_440.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[19-Nov-2019 00:55:13] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[19-Nov-2019 00:55:13] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[19-Nov-2019 01:10:52] PHP Warning:  getimagesize(../arquivos/dtex_35.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[19-Nov-2019 01:10:52] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[19-Nov-2019 01:10:52] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[19-Nov-2019 01:26:31] PHP Warning:  getimagesize(../arquivos/dtex_475.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[19-Nov-2019 01:26:31] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[19-Nov-2019 01:26:31] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[19-Nov-2019 01:42:10] PHP Warning:  getimagesize(../arquivos/dtex_458.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[19-Nov-2019 01:42:10] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[19-Nov-2019 01:42:10] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[19-Nov-2019 01:57:49] PHP Warning:  getimagesize(../arquivos/dtex_503.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[19-Nov-2019 01:57:49] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[19-Nov-2019 01:57:49] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[19-Nov-2019 02:06:42] PHP Warning:  getimagesize(../arquivos/dtex_560.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[19-Nov-2019 02:06:42] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[19-Nov-2019 02:06:42] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[19-Nov-2019 02:38:34] PHP Warning:  getimagesize(../arquivos/dtex_461.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[19-Nov-2019 02:38:34] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[19-Nov-2019 02:38:34] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[19-Nov-2019 02:58:44] PHP Warning:  getimagesize(../arquivos/dtex_437.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[19-Nov-2019 02:58:44] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[19-Nov-2019 02:58:44] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[19-Nov-2019 03:21:35] PHP Warning:  getimagesize(../arquivos/dtex_510.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[19-Nov-2019 03:21:35] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[19-Nov-2019 03:21:35] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[19-Nov-2019 03:54:38] PHP Warning:  getimagesize(../arquivos/dtex_516.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[19-Nov-2019 03:54:38] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[19-Nov-2019 03:54:38] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[19-Nov-2019 04:12:46] PHP Warning:  getimagesize(../arquivos/dtex_460.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[19-Nov-2019 04:12:46] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[19-Nov-2019 04:12:46] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[19-Nov-2019 04:36:14] PHP Warning:  getimagesize(../arquivos/dtex_528.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[19-Nov-2019 04:36:14] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[19-Nov-2019 04:36:14] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[19-Nov-2019 06:31:42] PHP Warning:  getimagesize(../arquivos/dtex_501.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[19-Nov-2019 06:31:42] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[19-Nov-2019 06:31:42] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[19-Nov-2019 22:39:04] PHP Warning:  getimagesize(../arquivos/dtex_56.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[19-Nov-2019 22:39:04] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[19-Nov-2019 22:39:04] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[21-Nov-2019 06:24:05] PHP Warning:  getimagesize(../arquivos/dtex_462.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[21-Nov-2019 06:24:05] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[21-Nov-2019 06:24:05] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[21-Nov-2019 06:40:18] PHP Warning:  getimagesize(../arquivos/dtex_492.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[21-Nov-2019 06:40:18] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[21-Nov-2019 06:40:18] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[21-Nov-2019 07:06:07] PHP Warning:  getimagesize(../arquivos/dtex_47.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[21-Nov-2019 07:06:07] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[21-Nov-2019 07:06:07] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[21-Nov-2019 07:22:49] PHP Warning:  getimagesize(../arquivos/dtex_53.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[21-Nov-2019 07:22:49] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[21-Nov-2019 07:22:49] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[21-Nov-2019 07:26:40] PHP Warning:  getimagesize(../arquivos/dtex_507.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[21-Nov-2019 07:26:40] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[21-Nov-2019 07:26:40] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[21-Nov-2019 07:47:07] PHP Warning:  getimagesize(../arquivos/dtex_484.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[21-Nov-2019 07:47:07] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[21-Nov-2019 07:47:07] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[21-Nov-2019 08:00:04] PHP Warning:  getimagesize(../arquivos/dtex_496.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[21-Nov-2019 08:00:04] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[21-Nov-2019 08:00:04] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[21-Nov-2019 08:08:34] PHP Warning:  getimagesize(../arquivos/dtex_552.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[21-Nov-2019 08:08:34] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[21-Nov-2019 08:08:34] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[21-Nov-2019 08:22:11] PHP Warning:  getimagesize(../arquivos/dtex_521.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[21-Nov-2019 08:22:11] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[21-Nov-2019 08:22:11] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[21-Nov-2019 08:32:51] PHP Warning:  getimagesize(../arquivos/dtex_497.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[21-Nov-2019 08:32:51] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[21-Nov-2019 08:32:51] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[21-Nov-2019 12:33:47] PHP Warning:  getimagesize(../arquivos/dtex_531.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[21-Nov-2019 12:33:47] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[21-Nov-2019 12:33:47] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[21-Nov-2019 21:50:26] PHP Warning:  getimagesize(../arquivos/dtex_434.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[21-Nov-2019 21:50:26] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[21-Nov-2019 21:50:26] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[21-Nov-2019 22:04:16] PHP Warning:  getimagesize(../arquivos/dtex_486.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[21-Nov-2019 22:04:16] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[21-Nov-2019 22:04:16] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[21-Nov-2019 22:13:36] PHP Warning:  getimagesize(../arquivos/dtex_530.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[21-Nov-2019 22:13:36] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[21-Nov-2019 22:13:36] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[21-Nov-2019 22:21:57] PHP Warning:  getimagesize(../arquivos/dtex_548.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[21-Nov-2019 22:21:57] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[21-Nov-2019 22:21:57] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[21-Nov-2019 22:41:43] PHP Warning:  getimagesize(../arquivos/dtex_478.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[21-Nov-2019 22:41:43] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[21-Nov-2019 22:41:43] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[21-Nov-2019 22:42:23] PHP Warning:  getimagesize(../arquivos/dtex_55.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[21-Nov-2019 22:42:23] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[21-Nov-2019 22:42:23] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[21-Nov-2019 22:53:11] PHP Warning:  getimagesize(../arquivos/dtex_529.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[21-Nov-2019 22:53:11] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[21-Nov-2019 22:53:11] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[21-Nov-2019 23:25:06] PHP Warning:  getimagesize(../arquivos/dtex_519.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[21-Nov-2019 23:25:06] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[21-Nov-2019 23:25:06] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[21-Nov-2019 23:25:48] PHP Warning:  getimagesize(../arquivos/dtex_467.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[21-Nov-2019 23:25:48] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[21-Nov-2019 23:25:48] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[21-Nov-2019 23:39:02] PHP Warning:  getimagesize(../arquivos/dtex_502.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[21-Nov-2019 23:39:02] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[21-Nov-2019 23:39:02] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[21-Nov-2019 23:52:48] PHP Warning:  getimagesize(../arquivos/dtex_456.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[21-Nov-2019 23:52:48] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[21-Nov-2019 23:52:48] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[21-Nov-2019 23:55:48] PHP Warning:  getimagesize(../arquivos/dtex_459.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[21-Nov-2019 23:55:48] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[21-Nov-2019 23:55:48] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[21-Nov-2019 23:57:17] PHP Warning:  getimagesize(../arquivos/dtex_545.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[21-Nov-2019 23:57:17] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[21-Nov-2019 23:57:17] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[22-Nov-2019 00:15:34] PHP Warning:  getimagesize(../arquivos/dtex_44.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[22-Nov-2019 00:15:34] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[22-Nov-2019 00:15:34] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[22-Nov-2019 06:16:48] PHP Warning:  getimagesize(../arquivos/dtex_42.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[22-Nov-2019 06:16:48] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[22-Nov-2019 06:16:48] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[22-Nov-2019 07:52:49] PHP Warning:  getimagesize(../arquivos/dtex_514.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[22-Nov-2019 07:52:49] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[22-Nov-2019 07:52:49] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[22-Nov-2019 09:36:49] PHP Warning:  getimagesize(../arquivos/dtex_517.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[22-Nov-2019 09:36:49] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[22-Nov-2019 09:36:49] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[22-Nov-2019 10:36:11] PHP Warning:  getimagesize(../arquivos/dtex_483.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[22-Nov-2019 10:36:11] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[22-Nov-2019 10:36:11] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[22-Nov-2019 10:46:36] PHP Warning:  getimagesize(../arquivos/dtex_489.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[22-Nov-2019 10:46:36] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[22-Nov-2019 10:46:36] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[22-Nov-2019 10:49:21] PHP Warning:  getimagesize(../arquivos/dtex_436.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[22-Nov-2019 10:49:21] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[22-Nov-2019 10:49:21] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[22-Nov-2019 11:06:13] PHP Warning:  getimagesize(../arquivos/dtex_495.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[22-Nov-2019 11:06:13] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[22-Nov-2019 11:06:13] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[22-Nov-2019 11:36:19] PHP Warning:  getimagesize(../arquivos/dtex_479.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[22-Nov-2019 11:36:19] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[22-Nov-2019 11:36:19] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[22-Nov-2019 11:46:29] PHP Warning:  getimagesize(../arquivos/dtex_435.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[22-Nov-2019 11:46:29] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[22-Nov-2019 11:46:29] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[22-Nov-2019 13:06:35] PHP Warning:  getimagesize(../arquivos/dtex_520.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[22-Nov-2019 13:06:35] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[22-Nov-2019 13:06:35] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[22-Nov-2019 19:58:56] PHP Warning:  getimagesize(../arquivos/dtex_509.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[22-Nov-2019 19:58:56] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[22-Nov-2019 19:58:56] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[22-Nov-2019 20:10:54] PHP Warning:  getimagesize(../arquivos/dtex_52.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[22-Nov-2019 20:10:54] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[22-Nov-2019 20:10:54] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[22-Nov-2019 20:59:30] PHP Warning:  getimagesize(../arquivos/dtex_469.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[22-Nov-2019 20:59:30] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[22-Nov-2019 20:59:30] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[22-Nov-2019 21:47:56] PHP Warning:  getimagesize(../arquivos/dtex_500.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[22-Nov-2019 21:47:56] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[22-Nov-2019 21:47:56] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[22-Nov-2019 22:22:26] PHP Warning:  getimagesize(../arquivos/dtex_45.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[22-Nov-2019 22:22:26] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[22-Nov-2019 22:22:26] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[22-Nov-2019 22:28:11] PHP Warning:  getimagesize(../arquivos/dtex_465.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[22-Nov-2019 22:28:11] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[22-Nov-2019 22:28:11] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[22-Nov-2019 22:44:44] PHP Warning:  getimagesize(../arquivos/dtex_482.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[22-Nov-2019 22:44:44] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[22-Nov-2019 22:44:44] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[22-Nov-2019 22:47:48] PHP Warning:  getimagesize(../arquivos/dtex_43.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[22-Nov-2019 22:47:48] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[22-Nov-2019 22:47:48] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[22-Nov-2019 22:57:17] PHP Warning:  getimagesize(../arquivos/dtex_39.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[22-Nov-2019 22:57:17] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[22-Nov-2019 22:57:17] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[22-Nov-2019 23:14:35] PHP Warning:  getimagesize(../arquivos/dtex_445.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[22-Nov-2019 23:14:35] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[22-Nov-2019 23:14:35] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[22-Nov-2019 23:25:35] PHP Warning:  getimagesize(../arquivos/dtex_442.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[22-Nov-2019 23:25:35] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[22-Nov-2019 23:25:35] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[22-Nov-2019 23:47:31] PHP Warning:  getimagesize(../arquivos/dtex_494.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[22-Nov-2019 23:47:31] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[22-Nov-2019 23:47:31] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[22-Nov-2019 23:50:41] PHP Warning:  getimagesize(../arquivos/dtex_550.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[22-Nov-2019 23:50:41] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[22-Nov-2019 23:50:41] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[22-Nov-2019 23:54:06] PHP Warning:  getimagesize(../arquivos/dtex_508.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[22-Nov-2019 23:54:06] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[22-Nov-2019 23:54:06] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[22-Nov-2019 23:59:29] PHP Warning:  getimagesize(../arquivos/dtex_561.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[22-Nov-2019 23:59:29] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[22-Nov-2019 23:59:29] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[23-Nov-2019 01:17:27] PHP Warning:  getimagesize(../arquivos/dtex_471.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[23-Nov-2019 01:17:27] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[23-Nov-2019 01:17:27] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[23-Nov-2019 03:51:33] PHP Warning:  getimagesize(../arquivos/dtex_51.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[23-Nov-2019 03:51:33] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[23-Nov-2019 03:51:33] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[23-Nov-2019 04:23:40] PHP Warning:  getimagesize(../arquivos/dtex_468.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[23-Nov-2019 04:23:40] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[23-Nov-2019 04:23:40] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[23-Nov-2019 04:25:45] PHP Warning:  getimagesize(../arquivos/dtex_493.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[23-Nov-2019 04:25:45] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[23-Nov-2019 04:25:45] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[23-Nov-2019 04:52:10] PHP Warning:  getimagesize(../arquivos/dtex_515.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[23-Nov-2019 04:52:10] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[23-Nov-2019 04:52:10] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[23-Nov-2019 05:13:14] PHP Warning:  getimagesize(../arquivos/dtex_46.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[23-Nov-2019 05:13:14] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[23-Nov-2019 05:13:14] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[23-Nov-2019 05:19:41] PHP Warning:  getimagesize(../arquivos/dtex_485.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[23-Nov-2019 05:19:41] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[23-Nov-2019 05:19:41] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[23-Nov-2019 13:34:29] PHP Warning:  getimagesize(../arquivos/dtex_512.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[23-Nov-2019 13:34:29] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[23-Nov-2019 13:34:29] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[23-Nov-2019 14:24:56] PHP Warning:  getimagesize(../arquivos/dtex_523.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[23-Nov-2019 14:24:56] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[23-Nov-2019 14:24:56] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[23-Nov-2019 14:54:53] PHP Warning:  getimagesize(../arquivos/dtex_490.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[23-Nov-2019 14:54:53] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[23-Nov-2019 14:54:53] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[23-Nov-2019 16:35:56] PHP Warning:  getimagesize(../arquivos/dtex_543.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[23-Nov-2019 16:35:56] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[23-Nov-2019 16:35:56] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[23-Nov-2019 16:38:29] PHP Warning:  getimagesize(../arquivos/dtex_504.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[23-Nov-2019 16:38:29] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[23-Nov-2019 16:38:29] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[23-Nov-2019 16:45:40] PHP Warning:  getimagesize(../arquivos/dtex_562.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[23-Nov-2019 16:45:40] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[23-Nov-2019 16:45:40] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[23-Nov-2019 16:48:30] PHP Warning:  getimagesize(../arquivos/dtex_54.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[23-Nov-2019 16:48:30] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[23-Nov-2019 16:48:30] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[23-Nov-2019 17:08:59] PHP Warning:  getimagesize(../arquivos/dtex_441.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[23-Nov-2019 17:08:59] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[23-Nov-2019 17:08:59] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[23-Nov-2019 17:17:16] PHP Warning:  getimagesize(../arquivos/dtex_477.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[23-Nov-2019 17:17:16] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[23-Nov-2019 17:17:16] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[23-Nov-2019 17:20:02] PHP Warning:  getimagesize(../arquivos/dtex_473.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[23-Nov-2019 17:20:02] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[23-Nov-2019 17:20:02] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[23-Nov-2019 17:35:41] PHP Warning:  getimagesize(../arquivos/dtex_522.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[23-Nov-2019 17:35:41] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[23-Nov-2019 17:35:41] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[23-Nov-2019 18:58:29] PHP Warning:  getimagesize(../arquivos/dtex_544.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[23-Nov-2019 18:58:29] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[23-Nov-2019 18:58:29] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[24-Nov-2019 05:27:36] PHP Warning:  getimagesize(../arquivos/dtex_488.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[24-Nov-2019 05:27:36] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[24-Nov-2019 05:27:36] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[24-Nov-2019 08:18:49] PHP Warning:  getimagesize(../arquivos/dtex_451.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[24-Nov-2019 08:18:49] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[24-Nov-2019 08:18:49] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[24-Nov-2019 20:18:45] PHP Warning:  getimagesize(../arquivos/dtex_457.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[24-Nov-2019 20:18:45] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[24-Nov-2019 20:18:45] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[24-Nov-2019 21:42:43] PHP Warning:  getimagesize(../arquivos/dtex_444.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[24-Nov-2019 21:42:43] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[24-Nov-2019 21:42:43] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[25-Nov-2019 08:49:15] PHP Warning:  getimagesize(../arquivos/dtex_466.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[25-Nov-2019 08:49:15] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[25-Nov-2019 08:49:15] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[25-Nov-2019 18:10:44] PHP Warning:  getimagesize(../arquivos/dtex_474.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[25-Nov-2019 18:10:44] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[25-Nov-2019 18:10:44] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[19-Feb-2020 06:30:35] PHP Warning:  getimagesize(../arquivos/dtex_553.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[19-Feb-2020 06:30:35] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[19-Feb-2020 06:30:35] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[22-Feb-2020 13:36:24] PHP Warning:  getimagesize(../arquivos/foto_67.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[22-Feb-2020 13:36:24] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[22-Feb-2020 13:36:24] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[25-Feb-2020 06:01:28] PHP Warning:  getimagesize(../arquivos/foto_67.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[25-Feb-2020 06:01:28] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[25-Feb-2020 06:01:28] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
+[28-Feb-2020 05:52:24] PHP Warning:  getimagesize(../arquivos/foto_67.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home2/camarala/public_html/admin/includes/image_layout.php on line 48
+[28-Feb-2020 05:52:24] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 57
+[28-Feb-2020 05:52:24] PHP Warning:  Division by zero in /home2/camarala/public_html/admin/includes/image_layout.php on line 58
